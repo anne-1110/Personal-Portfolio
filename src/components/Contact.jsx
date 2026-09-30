@@ -58,7 +58,7 @@ export default function Contact() {
   return (
     <section id="contact" className="py-24 px-6">
       <div className="max-w-6xl mx-auto">
-        <p className="font-mono text-primary text-sm mb-3">// contact</p>
+        <p className="font-mono text-primary text-sm mb-3"> contact</p>
 
         <div className="grid md:grid-cols-5 gap-12">
           {/* Left: heading + text + contact info */}

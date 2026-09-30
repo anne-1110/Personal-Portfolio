@@ -4,13 +4,13 @@ import { useState } from 'react';
 const email = 'techannie11@gmail.com';
 
 export default function Footer() {
-  const [copied, setCopied] = useState(false);
+  // const [copied, setCopied] = useState(false);
 
-  const handleCopyEmail = () => {
-    navigator.clipboard.writeText(email);
-    setCopied(true);
-    setTimeout(() => setCopied(false), 2000);
-  };
+  // const handleCopyEmail = () => {
+  //   navigator.clipboard.writeText(email);
+  //   setCopied(true);
+  //   setTimeout(() => setCopied(false), 2000);
+  // };
 
   return (
     <footer className="py-5">
