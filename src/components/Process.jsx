@@ -8,7 +8,7 @@ export default function Process() {
         <div className="w-12 h-1 rounded-full bg-secondary mx-auto mb-8" />
 
         <p className="font-mono text-secondary text-xs mb-2 text-center">
-          // process
+           process
         </p>
         <h2 className="font-heading text-xl sm:text-2xl font-bold text-slate-900 dark:text-white mb-12 text-center">
           How a project moves through

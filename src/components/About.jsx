@@ -5,7 +5,7 @@ export default function About() {
         <div className="grid md:grid-cols-2 gap-12 items-start">
           {/* Left: label + big headline */}
           <div>
-            <p className="font-mono text-primary text-sm mb-4"> //about</p>
+            <p className="font-mono text-primary text-sm mb-4"> about</p>
             <h2 className="font-heading text-2xl sm:text-3xl lg:text-4xl font-semibold text-slate-900 dark:text-white leading-tight">
               I build clean,<br /> responsive interfaces
               <span className="text-slate-400 dark:text-slate-500">

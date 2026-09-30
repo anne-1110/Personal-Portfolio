@@ -4,7 +4,7 @@ export default function Services() {
   return (
     <section id="services" className="py-24 px-6">
       <div className="max-w-6xl mx-auto">
-        <p className="font-mono text-primary text-sm mb-3">// services</p>
+        <p className="font-mono text-primary text-sm mb-3"> services</p>
         <h2 className="font-heading text-2xl sm:text-3xl font-bold text-slate-900 dark:text-white mb-3">
           How I can help
         </h2>

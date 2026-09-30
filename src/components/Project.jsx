@@ -5,7 +5,7 @@ export default function Projects() {
   return (
     <section id="projects" className="py-24 px-6 bg-slate-50 dark:bg-slate-800/40">
       <div className="max-w-7xl mx-auto">
-        <p className="font-mono text-secondary text-sm mb-3">// projects</p>
+        <p className="font-mono text-secondary text-sm mb-3"> projects</p>
         <h2 className="font-heading text-2xl sm:text-3xl font-bold text-slate-900 dark:text-white mb-14">
         Selected builds
         </h2>

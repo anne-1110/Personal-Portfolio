@@ -5,7 +5,7 @@ export default function Skills() {
     <section id="skills" className="py-24 px-6">
       <div className="max-w-6xl mx-auto">
         {/* Label + headline */}
-        <p className="font-mono text-primary text-sm mb-3">// skills</p>
+        <p className="font-mono text-primary text-sm mb-3"> skills</p>
         <h2 className="font-heading text-2xl sm:text-3xl font-bold text-slate-900 dark:text-white mb-14">
           Current stack
         </h2>
