@@ -1,5 +1,5 @@
 import Navbar from './components/Navbar';
-import { useTheme } from './context/ThemeContext';
+// import { useTheme } from './context/ThemeContext';
 import About from './components/About';
 import Hero from './components/Hero';
 import Skills from './components/Skills';
@@ -10,7 +10,7 @@ import Contact from './components/Contact';
 import Footer from './components/Footer';
 
 function App() {
-  const { theme, toggleTheme } = useTheme();
+  // const { theme, toggleTheme } = useTheme();
 
   return (
     <div>
